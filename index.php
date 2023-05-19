@@ -9,8 +9,7 @@
 <body>
     <?php
     $userName = "Alexandr";
-    
     ?>
-    <h1>hello world <?=$userName;?></h1>
+    <h1>hello world <?= print $userName;?></h1>
 </body>
 </html>

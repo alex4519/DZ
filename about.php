@@ -1,6 +1,7 @@
 <?php
     $name = "ivan";
-    echo gettype($name);
-    
-    print(30+40);
+    $age = 23;
+    $emailUser = "satan45";
+    $city = "Moscov";
+    $informUser = "back-end разработчик";
 ?>
